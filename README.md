@@ -1,5 +1,3 @@
-# Hexbytes
-Ethical Hacking Tools by Kuldeep
 # Hexbytes 🛡️
 
 **Ethical Hacking Tools by Kuldeep**
