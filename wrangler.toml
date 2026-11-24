@@ -1,0 +1,7 @@
+name = "hexbytes-security-api"
+main = "worker.js"
+compatibility_date = "2025-03-01"
+
+# Optional: restrict browser calls to your deployed frontend origin.
+# Set this in Cloudflare dashboard as a Worker variable, e.g.
+# ALLOWED_ORIGIN = "https://YOUR-USERNAME.github.io"
